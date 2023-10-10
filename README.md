@@ -25,7 +25,7 @@ This Python script provides a data comparison and reporting tool to analyze diff
 3. **Usage:**
    - Import the necessary functions:
      ```python
-     from data_comparison_tool import report_diff
+     from module.function import report_diff
      ```
 
    - Provide two Pandas DataFrames (`new` and `old`), a key column name (`key`), and a list to store the report (`Report`).
@@ -57,5 +57,3 @@ The report contains information about deleted columns, new columns, changes in e
 This project is licensed under the [MIT License](LICENSE).
 
 ---
-
-Feel free to customize this template according to your specific project details. Provide additional information, usage examples, and any other necessary details to help users understand and use your code effectively.
