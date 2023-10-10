@@ -14,7 +14,7 @@ This Python script provides a data comparison and reporting tool to analyze diff
 1. **Clone the Repository:**
    ```bash
    git clone https://github.com/your-username/data-comparison-tool.git
-   cd data-comparison-tool
+   cd df_diff
    ```
 
 2. **Install Dependencies:**
